@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Rakesh Software Solutions. Hyderbad,T.S </h1>
-<h1 align="center"> Rakesh Software Solutions- Very Good Training center for DevOps with AWS in Hyderbad Madhapur India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> Rakesh Reddy Software Solutions- Very Good Training center for DevOps with AWS in Hyderbad Madhapur India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
