@@ -2,9 +2,8 @@ pipeline{
 
 agent any
 
-tools{
-maven install 'Maven 3.6.3'
-
+environment{
+    PATH = "/usr/share/maven/bin:$PATH"
 }
 
 triggers{
